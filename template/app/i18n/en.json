@@ -1,0 +1,12 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel"
+  },
+  "homeScreen": {
+    "welcome": "Welcome"
+  },
+  "errorScreen": {
+    "placeholder": "Something went wrong"
+  }
+}
